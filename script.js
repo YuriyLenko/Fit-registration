@@ -16,7 +16,7 @@ function validateData() {
   } else if (growth < 140 || growth > 200) {
     alert("Вибачте, здається ви неправильно вказали ваш зріст");
   } else {
-    alert("Вітаємо! Ви успізхїшно створили обліковий запис");
+    alert("Вітаємо! Ви успішно створили обліковий запис");
     nameEl.value = "";
     ageEl.value = "";
     weightEl.value = "";

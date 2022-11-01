@@ -71,6 +71,10 @@ button:hover {
   width: 50%;
 }
 
+.checkbox {
+  margin-bottom: 15px;
+}
+
 .container {
   padding: 16px;
 }
